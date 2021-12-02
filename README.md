@@ -2,12 +2,16 @@
 # 本项目已弃用
 
  Because I'm in China Mainland, GFW blocks some of the GitHub functions, I had no other choices than changing to another solution.
+ 
  因为中国大陆某些因素，导致中国大陆用户可能无法正常访问GitHub的部分功能，综上我切换到了其它解决方案。
  
+ <br>
+ 
  Upptime is no doubt an excellent project, I'll always support it.
+ 
  毫无疑问，Upptime是一个很好的项目，我会继续支持它。
 
-
+ <br><br><br>
 
 
 
